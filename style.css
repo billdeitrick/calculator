@@ -1,0 +1,19 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+#calc-wrapper {
+    border: solid 1px black;
+    width: 35rem;
+    height: 40rem;
+    margin: 10rem auto 0 auto;
+}
+
+#button-container {
+    display: grid;
+    
+}
